@@ -1,3 +1,5 @@
+![Tour-Mama](https://github.com/user-attachments/assets/abb17ae1-013b-4b2c-affd-115f2c0178db)
+![Tour-Mama](https://github.com/user-attachments/assets/1704aaa0-7e96-426d-809c-982e00ab5c38)
 # html-css-journey
 "Hands-on 14-day HTML &amp; CSS bootcamp focused on mastering core web development fundamentals through daily practice."
 Each folder contains practice files, mini-projects, or notes for that day's challenge.
