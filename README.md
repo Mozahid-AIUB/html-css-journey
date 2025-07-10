@@ -1,3 +1,4 @@
+index_responsive.html
 ![Tour-Mama](https://github.com/user-attachments/assets/1f7052dc-94cf-4483-9ec8-f41fea846f45)
 # html-css-journey
 "Hands-on 14-day HTML &amp; CSS bootcamp focused on mastering core web development fundamentals through daily practice."
